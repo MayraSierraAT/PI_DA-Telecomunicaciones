@@ -1,4 +1,5 @@
-![Alt text](image-2.png)
+![image](https://github.com/MayraSierraAT/PI_DA-Telecomunicaciones/assets/123905946/90ab5344-aabf-4339-bd36-8a4862fffc7b)
+
 # <h1 align="center"> Proyecto Individual <br> Data Analitycs </h1>
 # <h1 align="center"> `TELECOMUNICACIONES` </h1>
 
