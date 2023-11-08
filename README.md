@@ -17,7 +17,7 @@ En este proyecto, se asume el rol de analista de datos encargado de realizar un 
 
 A partir de los conjuntos de datos obtenidos de Enacom, llevar a cabo un proceso de análisis exploratorio de datos (EDA) para extraer información de relevancia. La finalidad es crear un panel de control y una narración visual que posibilite la efectiva visualización y presentación de los datos. Con los hallazgos obtenidos, se podrá ofrecer recomendaciones destinadas a la mejora de los servicios de la empresa de telecomunicaciones. Específicamente, se buscará la identificación de áreas de mejora y la formulación de soluciones a los problemas identificados.
 
-## `KPIs (Indicadores Calve de Desempeño)`
+## KPIs (Indicadores Calve de Desempeño)
 
 `KPI 1- Aumento de cobertura`
 
